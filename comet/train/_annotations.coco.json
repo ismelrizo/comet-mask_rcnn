@@ -11839,11 +11839,11 @@
   ],
   "licenses": [{ "id": 0, "name": "Unknown License", "url": "" }],
   "categories": [
-    { "supercategory": "Comet", "id": 1, "name": "Class 0" },
-    { "supercategory": "Comet", "id": 2, "name": "Class 1" },
-    { "supercategory": "Comet", "id": 3, "name": "Class 2" },
-    { "supercategory": "Comet", "id": 4, "name": "Class 3" },
-    { "supercategory": "Comet", "id": 5, "name": "Class 4" },
-    { "supercategory": "Comet", "id": 6, "name": "Class 5" }
+    { "supercategory": "Comet", "id": 0, "name": "Class 0" },
+    { "supercategory": "Comet", "id": 1, "name": "Class 1" },
+    { "supercategory": "Comet", "id": 2, "name": "Class 2" },
+    { "supercategory": "Comet", "id": 3, "name": "Class 3" },
+    { "supercategory": "Comet", "id": 4, "name": "Class 4" },
+    { "supercategory": "Comet", "id": 5, "name": "Class 5" }
   ]
 }
